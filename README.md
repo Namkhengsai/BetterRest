@@ -1,14 +1,12 @@
 # BetterRest
 ## Introduction
-This app is my project I build along the way during the Paul Hudson's 100DaysOfSwiftUI course.
+“This app is a project I built along the way during Paul Hudson’s 100DaysOfSwiftUI course.”
 Check out 100DaysOfSwiftUI on [hackingwithswift.com](https://hackingwithswift.com)
 
 ## Overview
-Better rest is an app to calculate your ideal sleep time by considering user's daily coffee intake, user's desired amount of sleep, and user's wake up time. 
-This project introduced me with the knowledge of CoreML that use for creating machine learning model specifically for Swift programming language. 
-For this project I use CoreML to create linear regression model by using feature from the dataset. 
+Better Rest is an app that calculates your ideal sleep time by considering your daily coffee intake, desired amount of sleep, and wake-up time. This project introduced me to CoreML, which is used for creating machine learning models specifically in Swift. For this project, I used CoreML to create a linear regression model based on features from the dataset (for learning purposes only, not intended for medical use). 
 
-## Skilled Learned
+## Skills Learned
 * Entering numbers with Stepper
 * Selecting dates and times with DatePicker
 * Working with dates
