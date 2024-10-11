@@ -15,8 +15,8 @@ For this project I use CoreML to create linear regression model by using feature
 * Training a model with Create ML
 
 ## User Interface
-<img align="left" height="700" src="https://github.com/user-attachments/assets/53141a22-e533-4ba8-abdd-c1b22f7e55bd">
-<img align="right" height="700" src="https://github.com/user-attachments/assets/e798d9a2-db13-4289-b1c9-5783b78fd329">
+<img  height="700" src="https://github.com/user-attachments/assets/53141a22-e533-4ba8-abdd-c1b22f7e55bd">
+<img  height="700" src="https://github.com/user-attachments/assets/e798d9a2-db13-4289-b1c9-5783b78fd329">
 
 
 
