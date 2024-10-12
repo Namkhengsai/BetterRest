@@ -13,8 +13,8 @@ Better Rest is an app that calculates your ideal sleep time by considering your 
 * Training a model with Create ML
 
 ## User Interface
-<img  height="700" src="https://github.com/user-attachments/assets/53141a22-e533-4ba8-abdd-c1b22f7e55bd">
-<img  height="700" src="https://github.com/user-attachments/assets/e798d9a2-db13-4289-b1c9-5783b78fd329">
+<img  height="700" src="https://github.com/Namkhengsai/BetterRest/blob/main/BetterRestScreenShort-1.png">
+<img  height="700" src="https://github.com/Namkhengsai/BetterRest/blob/main/BetterRestScreenShort-2.png">
 
 
 
