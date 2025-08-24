@@ -17,7 +17,7 @@ struct ContentView: View {
     
     static var defultWakeTime:Date {
         var component = DateComponents()
-        component.hour = 7
+        component.hour = 8
         component.minute = 0
         return Calendar.current.date(from: component) ?? Date.now
     }
